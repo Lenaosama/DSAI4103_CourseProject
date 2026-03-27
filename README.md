@@ -19,7 +19,7 @@ The project uses the following files:
 Note: The dashboard dataset can be generated directly from the notebook by exporting **dashboard_data.csv**.
 
 ### Dashboard
-Dashboard link: https://app.powerbi.com/groups/me/reports/db3ba549-449d-4fee-80bd-869518b58d4e/5163d4b42eefc15dd1d6?experience=power-bi
+Dashboard link: https://app.powerbi.com/links/9TBtp98DxX?ctid=b30f4b44-46c6-4070-9997-f87b38d4771c&pbi_source=linkShare
 
 Note: The dashboard file is not stored in this repository because of its large file size.
 
