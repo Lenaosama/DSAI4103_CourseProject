@@ -24,7 +24,7 @@ Dashboard link: https://app.powerbi.com/groups/me/reports/db3ba549-449d-4fee-80b
 ### Repository Structure
 - **DSAI4103_CourseProject_60302049.ipynb**: main project notebook
 - **data/**: dataset files
-- **Dashboard/**: Power BI dashboard and supporting visuals
+- **Dashboard/**: Power BI dashboard Screenshots
 
 Note: The full dataset is available from the original source link above. Some large files cannot be included directly in this repository due to file size limits.
 
