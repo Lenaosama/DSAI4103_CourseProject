@@ -26,7 +26,7 @@ Dashboard link: https://app.powerbi.com/groups/me/reports/db3ba549-449d-4fee-80b
 - **data/**: dataset files
 - **Dashboard/**: Power BI dashboard and supporting visuals
 
-Note: The full dataset is available from the original source link above. Some large files may not be included directly in this repository due to file size limits.
+Note: The full dataset is available from the original source link above. Some large files cannot be included directly in this repository due to file size limits.
 
 ### Final Model
 The final selected model was a tuned Logistic Regression model, chosen because it provided the most practical balance between detecting purchase events and reducing false positives.
