@@ -1,0 +1,2 @@
+- The full dataset is available from the original source link above. Some large files (events.csv) cannot be included directly in this repository due to file size limits.
+- The dashboard dataset can be generated directly from the notebook by exporting **dashboard_data.csv**.
