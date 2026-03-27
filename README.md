@@ -20,6 +20,7 @@ Note: The dashboard dataset can be generated directly from the notebook by expor
 
 ### Dashboard
 Dashboard link: https://app.powerbi.com/groups/me/reports/db3ba549-449d-4fee-80bd-869518b58d4e/5163d4b42eefc15dd1d6?experience=power-bi
+Note: The dashboard file is not stored in this repository because of its large file size.
 
 ### Repository Structure
 - **DSAI4103_CourseProject_60302049.ipynb**: main project notebook
