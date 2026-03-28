@@ -27,7 +27,7 @@ Note: The dashboard file is not stored in this repository because of its large f
 
 ### Repository Structure
 - **DSAI4103_CourseProject_60302049.ipynb**: main project notebook
-- **DSAI4103_Presentation**: presentation slides
+- **DSAI4103_Presentation.pptx**: presentation slides
 - **data/**: dataset files
 - **Dashboard/**: Power BI dashboard Screenshots
 
