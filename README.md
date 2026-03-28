@@ -31,6 +31,7 @@ Note: The dashboard file is not stored in this repository because of its large f
 - **data/**: dataset files
 - **Dashboard/**: Power BI dashboard Screenshots
 
+Slides Link: https://www.canva.com/design/DAHFKy_GEh4/WCKS5ogP9n1fdnOJLaEGgg/view?utm_content=DAHFKy_GEh4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb821bceecd
 Note: The full dataset is available from the original source link above. Some large files cannot be included directly in this repository due to file size limits.
 
 ### Final Model
