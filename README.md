@@ -6,8 +6,10 @@ A machine learning project for analyzing customer behavior and predicting purcha
 ### Project Overview
 This project uses a multi-file marketing and e-commerce dataset to study customer behavior, build predictive models, explain model predictions using SHAP, and prepare data for dashboard reporting.
 
+Google Colab Link: https://colab.research.google.com/drive/1WCqBlj1N8-QFnCIi5lfDXEb-2wPe48lE?usp=sharing
+
 ### Dataset
-Original dataset: https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset?resource=download
+Original Dataset Link: https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset?resource=download
 
 The project uses the following files:
 - customers.csv
@@ -19,12 +21,13 @@ The project uses the following files:
 Note: The dashboard dataset can be generated directly from the notebook by exporting **dashboard_data.csv**.
 
 ### Dashboard
-Dashboard link: https://app.powerbi.com/links/9TBtp98DxX?ctid=b30f4b44-46c6-4070-9997-f87b38d4771c&pbi_source=linkShare
+Dashboard Link: https://app.powerbi.com/links/9TBtp98DxX?ctid=b30f4b44-46c6-4070-9997-f87b38d4771c&pbi_source=linkShare
 
 Note: The dashboard file is not stored in this repository because of its large file size.
 
 ### Repository Structure
 - **DSAI4103_CourseProject_60302049.ipynb**: main project notebook
+- **DSAI4103_Presentation**: presentation slides
 - **data/**: dataset files
 - **Dashboard/**: Power BI dashboard Screenshots
 
